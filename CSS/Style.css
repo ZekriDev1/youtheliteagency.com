@@ -1,0 +1,562 @@
+.elementor-kit-8 {
+    --e-global-color-primary: #FFFFFF;
+    --e-global-color-secondary: #BC0C00;
+    --e-global-color-text: #FFFFFF99;
+    --e-global-color-accent: #000000;
+    --e-global-color-a20e29e: #FFFFFF30;
+    --e-global-color-7791436: #FFD638;
+    --e-global-color-086a4a7: #202020;
+    --e-global-color-3d2a33b: #21232C;
+    --e-global-typography-primary-font-family: "Poppins";
+    --e-global-typography-primary-font-size: 80px;
+    --e-global-typography-primary-font-weight: 700;
+    --e-global-typography-primary-text-transform: capitalize;
+    --e-global-typography-primary-font-style: normal;
+    --e-global-typography-primary-text-decoration: none;
+    --e-global-typography-primary-line-height: 1.2em;
+    --e-global-typography-primary-letter-spacing: 0.5px;
+    --e-global-typography-secondary-font-family: "Poppins";
+    --e-global-typography-secondary-font-size: 56px;
+    --e-global-typography-secondary-font-weight: 700;
+    --e-global-typography-secondary-text-transform: capitalize;
+    --e-global-typography-secondary-font-style: normal;
+    --e-global-typography-secondary-text-decoration: none;
+    --e-global-typography-secondary-line-height: 1.2em;
+    --e-global-typography-secondary-letter-spacing: 0.5px;
+    --e-global-typography-text-font-family: "Roboto";
+    --e-global-typography-text-font-size: 16px;
+    --e-global-typography-text-font-weight: 400;
+    --e-global-typography-text-text-transform: none;
+    --e-global-typography-text-font-style: normal;
+    --e-global-typography-text-text-decoration: none;
+    --e-global-typography-text-line-height: 1.5em;
+    --e-global-typography-text-letter-spacing: 0.3px;
+    --e-global-typography-accent-font-family: "Poppins";
+    --e-global-typography-accent-font-size: 14px;
+    --e-global-typography-accent-font-weight: 500;
+    --e-global-typography-accent-text-transform: uppercase;
+    --e-global-typography-accent-font-style: normal;
+    --e-global-typography-accent-text-decoration: none;
+    --e-global-typography-accent-line-height: 1.2em;
+    --e-global-typography-accent-letter-spacing: 2px;
+    --e-global-typography-d425d0c-font-family: "Poppins";
+    --e-global-typography-d425d0c-font-size: 24px;
+    --e-global-typography-d425d0c-font-weight: 600;
+    --e-global-typography-d425d0c-text-transform: none;
+    --e-global-typography-d425d0c-font-style: normal;
+    --e-global-typography-d425d0c-text-decoration: none;
+    --e-global-typography-d425d0c-line-height: 1.3em;
+    --e-global-typography-d425d0c-letter-spacing: 0.3px;
+    --e-global-typography-b15d5b6-font-family: "Poppins";
+    --e-global-typography-b15d5b6-font-size: 18px;
+    --e-global-typography-b15d5b6-font-weight: 600;
+    --e-global-typography-b15d5b6-text-transform: none;
+    --e-global-typography-b15d5b6-font-style: normal;
+    --e-global-typography-b15d5b6-text-decoration: none;
+    --e-global-typography-c750520-font-family: "Poppins";
+    --e-global-typography-c750520-font-size: 14px;
+    --e-global-typography-c750520-font-weight: 500;
+    --e-global-typography-c750520-text-transform: uppercase;
+    --e-global-typography-c750520-font-style: normal;
+    --e-global-typography-c750520-text-decoration: none;
+    --e-global-typography-c750520-line-height: 1.2em;
+    --e-global-typography-c750520-letter-spacing: 2px;
+    --e-global-typography-fdb1912-font-family: "Poppins";
+    --e-global-typography-fdb1912-font-size: 16px;
+    --e-global-typography-fdb1912-font-weight: 500;
+    --e-global-typography-fdb1912-text-transform: none;
+    --e-global-typography-fdb1912-font-style: normal;
+    --e-global-typography-fdb1912-text-decoration: none;
+    --e-global-typography-fdb1912-line-height: 1.3em;
+    --e-global-typography-fdb1912-letter-spacing: 0.1px;
+    --e-global-typography-26b4881-font-family: "Poppins";
+    --e-global-typography-26b4881-font-size: 14px;
+    --e-global-typography-26b4881-font-weight: 600;
+    --e-global-typography-26b4881-text-transform: uppercase;
+    --e-global-typography-26b4881-font-style: normal;
+    --e-global-typography-26b4881-text-decoration: none;
+    --e-global-typography-26b4881-line-height: 1em;
+    --e-global-typography-26b4881-letter-spacing: 1px;
+    --e-global-typography-22a5132-font-family: "Poppins";
+    --e-global-typography-22a5132-font-size: 16px;
+    --e-global-typography-22a5132-font-weight: 600;
+    --e-global-typography-22a5132-text-transform: uppercase;
+    --e-global-typography-22a5132-font-style: normal;
+    --e-global-typography-22a5132-text-decoration: none;
+    --e-global-typography-22a5132-line-height: 1.2em;
+    --e-global-typography-22a5132-letter-spacing: 1px;
+    --e-global-typography-c72b450-font-family: "Poppins";
+    --e-global-typography-c72b450-font-size: 12px;
+    --e-global-typography-c72b450-font-weight: 600;
+    --e-global-typography-c72b450-text-transform: uppercase;
+    --e-global-typography-c72b450-font-style: normal;
+    --e-global-typography-c72b450-text-decoration: none;
+    --e-global-typography-c72b450-line-height: 1.2em;
+    --e-global-typography-c72b450-letter-spacing: 1px;
+    --e-global-typography-c674ad7-font-family: "Poppins";
+    --e-global-typography-c674ad7-font-size: 64px;
+    --e-global-typography-c674ad7-font-weight: 700;
+    --e-global-typography-c674ad7-text-transform: capitalize;
+    --e-global-typography-c674ad7-font-style: normal;
+    --e-global-typography-c674ad7-text-decoration: none;
+    --e-global-typography-c674ad7-line-height: 1.1em;
+    --e-global-typography-c674ad7-letter-spacing: 0.5px;
+    --e-global-typography-426e28d-font-family: "Poppins";
+    --e-global-typography-426e28d-font-size: 32px;
+    --e-global-typography-426e28d-font-weight: 700;
+    --e-global-typography-426e28d-text-transform: none;
+    --e-global-typography-426e28d-font-style: normal;
+    --e-global-typography-426e28d-text-decoration: none;
+    --e-global-typography-426e28d-line-height: 1.2em;
+    --e-global-typography-426e28d-letter-spacing: 0.2px;
+    --e-global-typography-a4e3bba-font-family: "Poppins";
+    --e-global-typography-a4e3bba-font-size: 20px;
+    --e-global-typography-a4e3bba-font-weight: 600;
+    --e-global-typography-a4e3bba-text-transform: none;
+    --e-global-typography-a4e3bba-font-style: normal;
+    --e-global-typography-a4e3bba-text-decoration: none;
+    --e-global-typography-a4e3bba-line-height: 1.2em;
+    --e-global-typography-a4e3bba-letter-spacing: 0.1px;
+    --e-global-typography-bed3353-font-family: "Roboto";
+    --e-global-typography-bed3353-font-size: 18px;
+    --e-global-typography-bed3353-font-weight: 400;
+    --e-global-typography-bed3353-text-transform: none;
+    --e-global-typography-bed3353-font-style: normal;
+    --e-global-typography-bed3353-text-decoration: none;
+    --e-global-typography-bed3353-line-height: 1.5em;
+    --e-global-typography-bed3353-letter-spacing: 0.2px;
+    --e-global-typography-bbca497-font-family: "Poppins";
+    --e-global-typography-bbca497-font-size: 13px;
+    --e-global-typography-bbca497-font-weight: 600;
+    --e-global-typography-bbca497-text-transform: uppercase;
+    --e-global-typography-bbca497-font-style: normal;
+    --e-global-typography-bbca497-text-decoration: none;
+    --e-global-typography-bbca497-line-height: 1em;
+    --e-global-typography-bbca497-letter-spacing: 1px;
+    --e-global-typography-230d029-font-family: "Roboto";
+    --e-global-typography-230d029-font-size: 14px;
+    --e-global-typography-230d029-font-weight: 400;
+    --e-global-typography-230d029-text-transform: none;
+    --e-global-typography-230d029-font-style: normal;
+    --e-global-typography-230d029-text-decoration: none;
+    --e-global-typography-230d029-line-height: 1.5em;
+    --e-global-typography-230d029-letter-spacing: 0px;
+    --e-global-typography-3225dc3-font-family: "Roboto";
+    --e-global-typography-3225dc3-font-size: 12px;
+    --e-global-typography-3225dc3-font-weight: 400;
+    --e-global-typography-3225dc3-text-transform: none;
+    --e-global-typography-3225dc3-font-style: normal;
+    --e-global-typography-3225dc3-text-decoration: none;
+    --e-global-typography-3225dc3-line-height: 1.8em;
+    --e-global-typography-3225dc3-letter-spacing: 0.3px;
+    --e-global-typography-d78602a-font-family: "Poppins";
+    --e-global-typography-d78602a-font-size: 16px;
+    --e-global-typography-d78602a-font-weight: 500;
+    --e-global-typography-d78602a-text-transform: none;
+    --e-global-typography-d78602a-font-style: normal;
+    --e-global-typography-d78602a-text-decoration: none;
+    --e-global-typography-d78602a-line-height: 2.6em;
+    --e-global-typography-d78602a-letter-spacing: 0.2px;
+    color: var( --e-global-color-text );
+    font-family: var( --e-global-typography-text-font-family ), Sans-serif;
+    font-size: var( --e-global-typography-text-font-size );
+    font-weight: var( --e-global-typography-text-font-weight );
+    text-transform: var( --e-global-typography-text-text-transform );
+    font-style: var( --e-global-typography-text-font-style );
+    text-decoration: var( --e-global-typography-text-text-decoration );
+    line-height: var( --e-global-typography-text-line-height );
+    letter-spacing: var( --e-global-typography-text-letter-spacing );
+    background-color: var( --e-global-color-accent );
+}
+
+.elementor-kit-8 a {
+    color: var( --e-global-color-secondary );
+    font-weight: 400;
+    text-transform: none;
+    font-style: normal;
+    text-decoration: none;
+}
+
+.elementor-kit-8 a:hover {
+    color: var( --e-global-color-primary );
+}
+
+.elementor-kit-8 h1 {
+    color: var( --e-global-color-primary );
+    font-family: var( --e-global-typography-primary-font-family ), Sans-serif;
+    font-size: var( --e-global-typography-primary-font-size );
+    font-weight: var( --e-global-typography-primary-font-weight );
+    text-transform: var( --e-global-typography-primary-text-transform );
+    font-style: var( --e-global-typography-primary-font-style );
+    text-decoration: var( --e-global-typography-primary-text-decoration );
+    line-height: var( --e-global-typography-primary-line-height );
+    letter-spacing: var( --e-global-typography-primary-letter-spacing );
+}
+
+.elementor-kit-8 h2 {
+    color: var( --e-global-color-primary );
+    font-family: var( --e-global-typography-secondary-font-family ), Sans-serif;
+    font-size: var( --e-global-typography-secondary-font-size );
+    font-weight: var( --e-global-typography-secondary-font-weight );
+    text-transform: var( --e-global-typography-secondary-text-transform );
+    font-style: var( --e-global-typography-secondary-font-style );
+    text-decoration: var( --e-global-typography-secondary-text-decoration );
+    line-height: var( --e-global-typography-secondary-line-height );
+    letter-spacing: var( --e-global-typography-secondary-letter-spacing );
+}
+
+.elementor-kit-8 h3 {
+    color: var( --e-global-color-primary );
+    font-family: var( --e-global-typography-d425d0c-font-family ), Sans-serif;
+    font-size: var( --e-global-typography-d425d0c-font-size );
+    font-weight: var( --e-global-typography-d425d0c-font-weight );
+    text-transform: var( --e-global-typography-d425d0c-text-transform );
+    font-style: var( --e-global-typography-d425d0c-font-style );
+    text-decoration: var( --e-global-typography-d425d0c-text-decoration );
+    line-height: var( --e-global-typography-d425d0c-line-height );
+    letter-spacing: var( --e-global-typography-d425d0c-letter-spacing );
+    word-spacing: var( --e-global-typography-d425d0c-word-spacing );
+}
+
+.elementor-kit-8 h4 {
+    color: var( --e-global-color-primary );
+    font-family: var( --e-global-typography-b15d5b6-font-family ), Sans-serif;
+    font-size: var( --e-global-typography-b15d5b6-font-size );
+    font-weight: var( --e-global-typography-b15d5b6-font-weight );
+    text-transform: var( --e-global-typography-b15d5b6-text-transform );
+    font-style: var( --e-global-typography-b15d5b6-font-style );
+    text-decoration: var( --e-global-typography-b15d5b6-text-decoration );
+    line-height: var( --e-global-typography-b15d5b6-line-height );
+    letter-spacing: var( --e-global-typography-b15d5b6-letter-spacing );
+    word-spacing: var( --e-global-typography-b15d5b6-word-spacing );
+}
+
+.elementor-kit-8 h5 {
+    color: var( --e-global-color-secondary );
+    font-family: var( --e-global-typography-c750520-font-family ), Sans-serif;
+    font-size: var( --e-global-typography-c750520-font-size );
+    font-weight: var( --e-global-typography-c750520-font-weight );
+    text-transform: var( --e-global-typography-c750520-text-transform );
+    font-style: var( --e-global-typography-c750520-font-style );
+    text-decoration: var( --e-global-typography-c750520-text-decoration );
+    line-height: var( --e-global-typography-c750520-line-height );
+    letter-spacing: var( --e-global-typography-c750520-letter-spacing );
+    word-spacing: var( --e-global-typography-c750520-word-spacing );
+}
+
+.elementor-kit-8 h6 {
+    color: var( --e-global-color-primary );
+    font-family: var( --e-global-typography-fdb1912-font-family ), Sans-serif;
+    font-size: var( --e-global-typography-fdb1912-font-size );
+    font-weight: var( --e-global-typography-fdb1912-font-weight );
+    text-transform: var( --e-global-typography-fdb1912-text-transform );
+    font-style: var( --e-global-typography-fdb1912-font-style );
+    text-decoration: var( --e-global-typography-fdb1912-text-decoration );
+    line-height: var( --e-global-typography-fdb1912-line-height );
+    letter-spacing: var( --e-global-typography-fdb1912-letter-spacing );
+    word-spacing: var( --e-global-typography-fdb1912-word-spacing );
+}
+
+.elementor-kit-8 button,.elementor-kit-8 input[type="button"],.elementor-kit-8 input[type="submit"],.elementor-kit-8 .elementor-button {
+    font-family: var( --e-global-typography-22a5132-font-family ), Sans-serif;
+    font-size: var( --e-global-typography-22a5132-font-size );
+    font-weight: var( --e-global-typography-22a5132-font-weight );
+    text-transform: var( --e-global-typography-22a5132-text-transform );
+    font-style: var( --e-global-typography-22a5132-font-style );
+    text-decoration: var( --e-global-typography-22a5132-text-decoration );
+    line-height: var( --e-global-typography-22a5132-line-height );
+    letter-spacing: var( --e-global-typography-22a5132-letter-spacing );
+    word-spacing: var( --e-global-typography-22a5132-word-spacing );
+    color: var( --e-global-color-accent );
+    background-color: var( --e-global-color-secondary );
+    border-style: none;
+    border-radius: 50px 50px 50px 50px;
+    padding: 20px 40px 20px 40px;
+}
+
+.elementor-kit-8 button:hover,.elementor-kit-8 button:focus,.elementor-kit-8 input[type="button"]:hover,.elementor-kit-8 input[type="button"]:focus,.elementor-kit-8 input[type="submit"]:hover,.elementor-kit-8 input[type="submit"]:focus,.elementor-kit-8 .elementor-button:hover,.elementor-kit-8 .elementor-button:focus {
+    color: var( --e-global-color-accent );
+    background-color: var( --e-global-color-primary );
+    border-style: none;
+    border-radius: 50px 50px 50px 50px;
+}
+
+.elementor-kit-8 label {
+    color: #121212;
+    font-family: "Poppins", Sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 1.2em;
+    letter-spacing: 0.5px;
+}
+
+.elementor-kit-8 input:not([type="button"]):not([type="submit"]),.elementor-kit-8 textarea,.elementor-kit-8 .elementor-field-textual {
+    font-family: "Poppins", Sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 1.8em;
+    letter-spacing: 0.5px;
+    color: var( --e-global-color-accent );
+    background-color: var( --e-global-color-primary );
+    border-style: solid;
+    border-width: 1px 1px 1px 1px;
+    border-color: var( --e-global-color-a20e29e );
+    border-radius: 5px 5px 5px 5px;
+}
+
+.elementor-section.elementor-section-boxed > .elementor-container {
+    max-width: 1140px;
+}
+
+.e-con {
+    --container-max-width: 1140px;
+}
+
+.elementor-widget:not(:last-child) {
+    margin-block-end:20px;
+}
+
+.elementor-element {
+    --widgets-spacing: 20px 20px;
+}
+
+
+
+h1.entry-title {
+    display: var(--page-title-display);
+}
+
+@media(max-width: 1024px) {
+    .elementor-kit-8 {
+        --e-global-typography-primary-font-size:65px;
+        --e-global-typography-secondary-font-size: 48px;
+        --e-global-typography-text-font-size: 16px;
+        --e-global-typography-accent-font-size: 17px;
+        --e-global-typography-c750520-font-size: 14px;
+        --e-global-typography-22a5132-font-size: 16px;
+        --e-global-typography-c72b450-font-size: 12px;
+        --e-global-typography-c674ad7-font-size: 64px;
+        --e-global-typography-426e28d-font-size: 28px;
+        --e-global-typography-426e28d-line-height: 1.2em;
+        --e-global-typography-426e28d-letter-spacing: 0.1px;
+        --e-global-typography-a4e3bba-font-size: 20px;
+        --e-global-typography-a4e3bba-line-height: 1.2em;
+        --e-global-typography-a4e3bba-letter-spacing: 0.1px;
+        --e-global-typography-bed3353-font-size: 18px;
+        --e-global-typography-bbca497-font-size: 15px;
+        --e-global-typography-3225dc3-font-size: 12px;
+        font-size: var( --e-global-typography-text-font-size );
+        line-height: var( --e-global-typography-text-line-height );
+        letter-spacing: var( --e-global-typography-text-letter-spacing );
+    }
+
+    .elementor-kit-8 h1 {
+        font-size: var( --e-global-typography-primary-font-size );
+        line-height: var( --e-global-typography-primary-line-height );
+        letter-spacing: var( --e-global-typography-primary-letter-spacing );
+    }
+
+    .elementor-kit-8 h2 {
+        font-size: var( --e-global-typography-secondary-font-size );
+        line-height: var( --e-global-typography-secondary-line-height );
+        letter-spacing: var( --e-global-typography-secondary-letter-spacing );
+    }
+
+    .elementor-kit-8 h3 {
+        font-size: var( --e-global-typography-d425d0c-font-size );
+        line-height: var( --e-global-typography-d425d0c-line-height );
+        letter-spacing: var( --e-global-typography-d425d0c-letter-spacing );
+        word-spacing: var( --e-global-typography-d425d0c-word-spacing );
+    }
+
+    .elementor-kit-8 h4 {
+        font-size: var( --e-global-typography-b15d5b6-font-size );
+        line-height: var( --e-global-typography-b15d5b6-line-height );
+        letter-spacing: var( --e-global-typography-b15d5b6-letter-spacing );
+        word-spacing: var( --e-global-typography-b15d5b6-word-spacing );
+    }
+
+    .elementor-kit-8 h5 {
+        font-size: var( --e-global-typography-c750520-font-size );
+        line-height: var( --e-global-typography-c750520-line-height );
+        letter-spacing: var( --e-global-typography-c750520-letter-spacing );
+        word-spacing: var( --e-global-typography-c750520-word-spacing );
+    }
+
+    .elementor-kit-8 h6 {
+        font-size: var( --e-global-typography-fdb1912-font-size );
+        line-height: var( --e-global-typography-fdb1912-line-height );
+        letter-spacing: var( --e-global-typography-fdb1912-letter-spacing );
+        word-spacing: var( --e-global-typography-fdb1912-word-spacing );
+    }
+
+    .elementor-kit-8 button,.elementor-kit-8 input[type="button"],.elementor-kit-8 input[type="submit"],.elementor-kit-8 .elementor-button {
+        font-size: var( --e-global-typography-22a5132-font-size );
+        line-height: var( --e-global-typography-22a5132-line-height );
+        letter-spacing: var( --e-global-typography-22a5132-letter-spacing );
+        word-spacing: var( --e-global-typography-22a5132-word-spacing );
+        padding: 20px 30px 20px 30px;
+    }
+
+    .elementor-section.elementor-section-boxed > .elementor-container {
+        max-width: 1024px;
+    }
+
+    .e-con {
+        --container-max-width: 1024px;
+    }
+}
+
+@media(max-width: 767px) {
+    .elementor-kit-8 {
+        --e-global-typography-primary-font-size:42px;
+        --e-global-typography-secondary-font-size: 32px;
+        --e-global-typography-text-font-size: 14px;
+        --e-global-typography-accent-font-size: 15px;
+        --e-global-typography-d425d0c-font-size: 20px;
+        --e-global-typography-c750520-font-size: 12px;
+        --e-global-typography-26b4881-font-size: 12px;
+        --e-global-typography-22a5132-font-size: 14px;
+        --e-global-typography-c72b450-font-size: 12px;
+        --e-global-typography-c674ad7-font-size: 36px;
+        --e-global-typography-426e28d-font-size: 24px;
+        --e-global-typography-426e28d-line-height: 1.2em;
+        --e-global-typography-426e28d-letter-spacing: 0.1px;
+        --e-global-typography-a4e3bba-font-size: 18px;
+        --e-global-typography-a4e3bba-line-height: 1.4em;
+        --e-global-typography-a4e3bba-letter-spacing: 0.1px;
+        --e-global-typography-bed3353-font-size: 16px;
+        --e-global-typography-bbca497-font-size: 14px;
+        --e-global-typography-3225dc3-font-size: 12px;
+        font-size: var( --e-global-typography-text-font-size );
+        line-height: var( --e-global-typography-text-line-height );
+        letter-spacing: var( --e-global-typography-text-letter-spacing );
+    }
+
+    .elementor-kit-8 a {
+        font-size: 15px;
+    }
+
+    .elementor-kit-8 h1 {
+        font-size: var( --e-global-typography-primary-font-size );
+        line-height: var( --e-global-typography-primary-line-height );
+        letter-spacing: var( --e-global-typography-primary-letter-spacing );
+    }
+
+    .elementor-kit-8 h2 {
+        font-size: var( --e-global-typography-secondary-font-size );
+        line-height: var( --e-global-typography-secondary-line-height );
+        letter-spacing: var( --e-global-typography-secondary-letter-spacing );
+    }
+
+    .elementor-kit-8 h3 {
+        font-size: var( --e-global-typography-d425d0c-font-size );
+        line-height: var( --e-global-typography-d425d0c-line-height );
+        letter-spacing: var( --e-global-typography-d425d0c-letter-spacing );
+        word-spacing: var( --e-global-typography-d425d0c-word-spacing );
+    }
+
+    .elementor-kit-8 h4 {
+        font-size: var( --e-global-typography-b15d5b6-font-size );
+        line-height: var( --e-global-typography-b15d5b6-line-height );
+        letter-spacing: var( --e-global-typography-b15d5b6-letter-spacing );
+        word-spacing: var( --e-global-typography-b15d5b6-word-spacing );
+    }
+
+    .elementor-kit-8 h5 {
+        font-size: var( --e-global-typography-c750520-font-size );
+        line-height: var( --e-global-typography-c750520-line-height );
+        letter-spacing: var( --e-global-typography-c750520-letter-spacing );
+        word-spacing: var( --e-global-typography-c750520-word-spacing );
+    }
+
+    .elementor-kit-8 h6 {
+        font-size: var( --e-global-typography-fdb1912-font-size );
+        line-height: var( --e-global-typography-fdb1912-line-height );
+        letter-spacing: var( --e-global-typography-fdb1912-letter-spacing );
+        word-spacing: var( --e-global-typography-fdb1912-word-spacing );
+    }
+
+    .elementor-kit-8 button,.elementor-kit-8 input[type="button"],.elementor-kit-8 input[type="submit"],.elementor-kit-8 .elementor-button {
+        font-size: var( --e-global-typography-22a5132-font-size );
+        line-height: var( --e-global-typography-22a5132-line-height );
+        letter-spacing: var( --e-global-typography-22a5132-letter-spacing );
+        word-spacing: var( --e-global-typography-22a5132-word-spacing );
+        padding: 20px 30px 20px 30px;
+    }
+
+    .elementor-section.elementor-section-boxed > .elementor-container {
+        max-width: 767px;
+    }
+
+    .e-con {
+        --container-max-width: 767px;
+    }
+}
+
+
+
+.imge-disk {
+    border-radius: 50%;
+
+    object-fit: cover; /* Ensures the image maintains its aspect ratio while filling the area */
+}
+
+.image-logo {
+    width: 150px;
+    height: auto; /* Maintains the aspect ratio */
+}
+
+.language-selector {
+    display: flex;
+    gap: 10px;
+    align-items: center;
+}
+.flag-circle {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    cursor: pointer;
+    background-size: cover;
+    border: 2px solid transparent;
+    transition: border-color 0.3s;
+}
+.flag-circle:hover {
+    border-color: #000; /* Optional hover effect */
+}
+
+/* Background Images for Each Language Flag */
+.flag-circle[data-lang="en"] {
+    background-image: url('assets/flags/en.png'); /* English flag */
+}
+.flag-circle[data-lang="fr"] {
+    background-image: url('assets/flags/fr.png'); /* French flag */
+}
+.flag-circle[data-lang="ar"] {
+    background-image: url('assets/flags/ar.png'); /* Arabic flag */
+}
+.imge-disk{
+    border-radius: 15px;
+}
+.ZiadIMG {
+    width: 350px;
+    height: 350px;
+    left: -500px;
+}
+.elementor-widget-image img {
+    float: left;
+    margin-right: 20px; /* Optional: Adds some space to the right of the image */
+}
+
+
+
+.elementor-heading-title.show {
+    opacity: 1;
+    transform: translateY(0);
+}
+.image-radius{
+    border-radius: 50px;
+}
+.imge-disk{
+    border-radius: 15px;
+}
