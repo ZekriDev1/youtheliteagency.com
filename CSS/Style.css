@@ -560,3 +560,17 @@ h1.entry-title {
 .imge-disk{
     border-radius: 15px;
 }
+.btn-whatsapp {
+    display: inline-block;
+    padding: 10px 20px; /* Adjust padding as needed */
+    background-color: #28a745; /* Green color */
+    color: white; /* Text color */
+    border-radius: 5px; /* Rounded corners */
+    text-decoration: none; /* Remove underline for anchor */
+    text-align: center; /* Center the text */
+    border: none; /* Remove border for button style */
+    cursor: pointer; /* Pointer cursor for hover effect */
+  }
+  .btn-whatsapp:hover {
+    background-color: #00ff37; /* Darker green on hover */
+  }
