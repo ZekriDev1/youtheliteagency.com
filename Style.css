@@ -45,3 +45,10 @@
   .containerTeam:hover .text-container {
     opacity: 1;
   }
+.Contact-end{
+  align-items: center;
+}
+
+.elementor-heading-title .elementor-size-default{
+  align-items: center;
+}
