@@ -1,0 +1,499 @@
+@media (max-width:1816px) {
+    .first_vue_image img {
+        width: 10px;
+    }
+    .navbar-logo {
+        width: 50px;
+        height: 50px;
+    }
+    
+}
+
+@media(min-width:1751px) {
+    .offer-card-speech {
+        font-size: 30px;
+    }
+}
+
+@media (max-width:1751px) {
+    .offer-card img,
+    .works-card-intern img {
+        width: 350px;
+    }
+    .first_vue {
+        gap: 100px;
+    }
+    :root {
+        --fz-600: 72px;
+        --fz-500: 60px;
+        --fz-400: 42px;
+        --fz-300: 34px;
+        --fz-200: 30px;
+        --fz-100: 22px;
+        --fz-50: 18px;
+    }
+    .Section {
+        margin: 0 170px;
+    }
+    .sticky .navbar {
+        margin: 0 170px;
+    }
+}
+
+@media(max-width:1557px) {
+    .first_vue {
+        justify-content: center;
+    }
+    :root {
+        --fz-600: 68px;
+        --fz-500: 56px;
+        --fz-400: 38px;
+        --fz-300: 30px;
+        --fz-200: 27px;
+        --fz-100: 20px;
+        --fz-50: 17px;
+    }
+    .first_vue_image img {
+        width: 300px;
+    }
+    .Section {
+        margin: 0 100px;
+    }
+    .sticky .navbar {
+        margin: 0 100px;
+    }
+    .navbar-logo img,
+    .contact-logo img {
+        width: 70px;
+    }
+    .contact-item svg {
+        width: calc(100% - 10px);
+    }
+    .services-card-logo img {
+        width: 30px;
+    }
+    .carousel .carousel-item {
+        width: 450px;
+    }
+}
+
+@media (max-width:1300px) {
+    .offer-card img,
+    .works-card-intern img {
+        width: 250px;
+    }
+    .services-cards {
+        gap: 50px;
+    }
+    .button {
+        padding: 16px 40px;
+    }
+    .first_vue {
+        gap: 50px;
+    }
+    :root {
+        --fz-600: 60px;
+        --fz-500: 52px;
+        --fz-400: 33px;
+        --fz-300: 28px;
+        --fz-200: 25px;
+        --fz-100: 19px;
+        --fz-50: 16px;
+    }
+}
+
+@media (max-width:1200px) {
+    .big {
+        width: 135px;
+    }
+    .neutral {
+        width: 117px;
+    }
+    .small {
+        width: 105px;
+    }
+    .medium {
+        width: 112px;
+    }
+    .cancel-active svg {
+        width: 15px;
+    }
+    .spn1,
+    .spn2 {
+        gap: 150px;
+    }
+    .contact-items {
+        gap: 30px;
+    }
+    .testimonial svg {
+        width: 80px;
+    }
+    .carousel .carousel-item {
+        width: 400px;
+    }
+    .services-card {
+        padding: 27px 10px;
+    }
+    .works-cards {
+        justify-content: space-between;
+        gap: 0;
+    }
+    .first_vue_image img {
+        width: 350px;
+    }
+    .Section {
+        margin: 0 80px;
+    }
+    .sticky .navbar {
+        margin: 0 80px;
+    }
+    .aboutme-speech {
+        width: 78%;
+    }
+    :root {
+        --fz-600: 55px;
+        --fz-500: 48px;
+        --fz-400: 30px;
+        --fz-300: 24px;
+        --fz-200: 23px;
+        --fz-100: 18px;
+        --fz-50: 15px;
+    }
+    .contact-item svg {
+        width: calc(100% - 20px);
+    }
+    .navbar-logo img,
+    .contact-logo img {
+        width: 50px;
+    }
+    .images-container {
+        margin: 50px;
+    }
+}
+
+@media (max-width:1034px) {
+    .arrow img {
+        width: 25px;
+    }
+    .carousel .carousel-item {
+        height: 200px;
+        width: 380px;
+    }
+    .testimonial-picture img {
+        width: 60px;
+    }
+    .feedback {
+        gap: 70px;
+    }
+    .first_vue_image img {
+        width: 320px;
+    }
+    .button {
+        padding: 10px 32px;
+    }
+    :root {
+        --fz-600: 48px;
+        --fz-500: 40px;
+        --fz-400: 26px;
+        --fz-300: 22px;
+        --fz-200: 21px;
+        --fz-100: 16px;
+        --fz-50: 13px;
+    }
+}
+
+@media (max-width:950px) {
+    .carousel .carousel-item {
+        height: 160px;
+        width: 340px;
+    }
+    .testimonial-picture img {
+        width: 50px;
+    }
+    .currentclick::after {
+        width: 7px;
+        height: 7px;
+        left: 45%;
+    }
+    .contact-items {
+        display: flex;
+        gap: 10px;
+    }
+    .contact-item svg {
+        width: calc(100% - 30px);
+    }
+    .contact {
+        padding: 40px 0;
+    }
+    .Sections {
+        padding-top: 100px;
+        padding-bottom: 50px;
+    }
+    .offer-card img,
+    .works-card-intern img {
+        width: 200px;
+    }
+    .Section {
+        margin: 0 50px;
+    }
+    .sticky .navbar {
+        margin: 0 50px;
+    }
+    .services-card {
+        gap: 15px;
+    }
+    .services-cards {
+        gap: 30px;
+    }
+    :root {
+        --fz-600: 45px;
+        --fz-500: 36px;
+        --fz-400: 24px;
+        --fz-300: 21px;
+        --fz-200: 20px;
+        --fz-100: 15px;
+        --fz-50: 12px;
+    }
+    .button {
+        padding: 10px 25px;
+    }
+    .first_vue_image img {
+        width: 30px;
+    }
+}
+
+@media (max-width:836px) {
+    .arrow {
+        right: -5%;
+    }
+    .arrow img {
+        width: 20px;
+    }
+    .big {
+        width: 115px;
+    }
+    .neutral {
+        width: 101px;
+    }
+    .small {
+        width: 90px;
+    }
+    .medium {
+        width: 102px;
+    }
+    :root {
+        --fz-600: 42px;
+        --fz-500: 34px;
+        --fz-400: 22px;
+        --fz-300: 20px;
+        --fz-200: 18px;
+        --fz-100: 13px;
+        --fz-50: 11px;
+    }
+    .Section {
+        margin: 0 30px;
+    }
+    .sticky .navbar {
+        margin: 0 30px;
+    }
+    .first_vue_image img {
+        width: 250px;
+    }
+    .second-present {
+        margin-bottom: 20px;
+    }
+    .button {
+        padding: 8px 20px;
+    }
+    .first_vue {
+        gap: 20px;
+    }
+    .nav-items {
+        gap: 20px;
+    }
+}
+
+@media (max-width:700px) {
+    .offer-card-speech {
+        font-size: 20px;
+    }
+    .services-cards {
+        flex-direction: column;
+        align-items: center;
+    }
+    .services-card {
+        padding: 27px 20px;
+        width: 80%;
+    }
+    .works-cards {
+        flex-direction: column;
+        gap: 50px;
+    }
+    .offers-cards {
+        flex-direction: column;
+        gap: 50px;
+    }
+    .offer-card img,
+    .works-card-intern img {
+        width: 350px;
+    }
+    .carousel .carousel-item {
+        height: 180px;
+        width: 340px;
+    }
+    .testimonial-picture img {
+        width: 50px;
+    }
+    .services-cards {
+        gap: 50px;
+    }
+    :root {
+        --fz-600: 36px;
+        --fz-500: 32px;
+        --fz-400: 21px;
+        --fz-300: 19px;
+        --fz-200: 17px;
+        --fz-100: 14px;
+        --fz-50: 11px;
+    }
+    .first_vue {
+        gap: 0px;
+    }
+    .navbar-logo img,
+    .contact-logo img {
+        width: 50px;
+    }
+    .contact {
+        gap: 20px;
+    }
+    .contact-items {
+        gap: 0;
+    }
+    .first_vue_image img {
+        width: 220px;
+    }
+    .sponsor-container {
+        padding: 10px 0;
+    }
+}
+
+@media(max-width:600px) {
+    .Sections {
+        padding-top: 70px;
+        padding-bottom: 30px;
+    }
+    .feedback {
+        gap: 0;
+    }
+    .nav-items {
+        display: none;
+    }
+    .sticky {
+        position: relative;
+    }
+    .navbar {
+        justify-content: center;
+    }
+    .navbar-logo img,
+    .contact-logo img {
+        width: 50px;
+    }
+    .under-navbar {
+        padding-top: 0;
+    }
+    .first_vue {
+        position: relative;
+        padding: 250px 0 100px;
+        margin: 0;
+        overflow: hidden;
+    }
+    .First.Section {
+        margin: 0;
+    }
+    .ssticky {
+        display: none;
+    }
+    .first_vue_speech {
+        z-index: 99999999;
+        text-align: center;
+    }
+    .first_vue_image {
+        position: absolute;
+        z-index: 0;
+        width: 100%;
+        opacity: 0.2;
+        top: 0;
+        display: flex;
+        justify-content: center;
+    }
+    .first_vue_image img {
+        width: 750px;
+    }
+    .second-present {
+        margin-bottom: 100px;
+    }
+    .aboutme-achieves {
+        gap: 20px;
+    }
+    .aboutme-speech {
+        width: 90%;
+    }
+    .contact-speech {
+        width: 90%;
+    }
+    .sponsor-container .Section {
+        margin: 0 10px;
+    }
+    .images-container {
+        margin: 30px;
+    }
+    .images .img img {
+        width: 250px;
+    }
+}
+
+@media (max-width:500px) {
+    .images2 img {
+        width: 100%;
+    }
+    .images3 {
+        gap: 50px;
+    }
+    .images3 img,
+    .images3 .video {
+        width: 100%;
+    }
+    .carousel .carousel-item {
+        height: auto;
+        width: 90%;
+    }
+    .testimonial-picture img {
+        width: 50px;
+    }
+    :root {
+        --fz-600: 36px;
+        --fz-500: 32px;
+        --fz-400: 21px;
+        --fz-300: 19px;
+        --fz-200: 15px;
+        --fz-100: 13px;
+        --fz-50: 11px;
+    }
+    .offer-card a,
+    .works-card-intern {
+        display: flex;
+        justify-content: center;
+    }
+    .offer-card img,
+    .works-card-intern img {
+        width: 80%;
+    }
+    .offer-card-speech {
+        font-size: 19px;
+    }
+    .popup-button {
+        position: absolute;
+        top: -30px;
+        right: 5%;
+    }
+}
